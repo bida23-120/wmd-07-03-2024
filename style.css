@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+.header{ 
+    display: flex;
+    background-color: rgb(11, 174, 54);
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    margin-left: auto ;
+    margin: auto;
+}
+.header h1{
+    color: white;
+    font-size: 70px;
+    
+}
+.main{background-color: #cac039;
+    width: 90%;
+    height: 800px;
+    margin: 0px auto 0px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    height:100px;
+    width:90%;
+    background:blue;
+    margin-left:auto;
+        margin-right:auto;
+}
